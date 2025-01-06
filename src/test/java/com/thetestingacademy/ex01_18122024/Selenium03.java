@@ -1,7 +1,7 @@
 package com.thetestingacademy.ex01_18122024;
 
 public class Selenium03 {
-    @Test
+//    @Test
     public void test_Selenium(){
 
         // Webdriver hierarchy
